@@ -1,0 +1,10 @@
+{
+  "device": {"id": "demo-laser-001", "type": "LaserCutter"},
+  "timestamp": "2024-01-01T00:00:00.123Z",
+  "country": "demo-country",
+  "city": "demo-city",
+  "area": "demo-zone",
+  "factory": "demo-factory",
+  "section": "section-a",
+  "data": {"status": "healthy", "temperature": 24}
+}

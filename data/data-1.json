@@ -1,0 +1,8 @@
+{
+  "deviceID": "demo-laser-001",
+  "deviceType": "LaserCutter",
+  "timestamp": 1704067200123,
+  "location": "demo-country/demo-city/demo-zone/demo-factory/section-a",
+  "operationStatus": "healthy",
+  "temp": 24
+}
