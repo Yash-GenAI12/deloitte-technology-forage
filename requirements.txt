@@ -1,0 +1,2 @@
+# No third-party dependencies are required.
+# Runtime and tests use only the Python standard library.
